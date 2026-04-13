@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Just an amateur programmer. I love playing rhythm games.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AXIS5hacker)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=AXIS5hacker&show_icons=true&hide_border=true&icon_color=79dafa&title_color=a086c7&text_color=c8a9ef%22%20align=%22right%22%3E">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AXIS5hacker&layout=compact&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-mrdulin.vercel.app/api/top-langs/?username=AXIS5hacker&layout=compact&hide=html,css,javascript">
